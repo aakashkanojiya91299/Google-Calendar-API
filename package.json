@@ -1,0 +1,11 @@
+{
+  "name": "google-calendar-api",
+  "version": "1.0.0",
+  "description": "Google Calender Api Using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AAKASH KANOJIYA",
+  "license": "ISC"
+}
